@@ -1,0 +1,6 @@
+@BeachCommerce_HostAddress = http://localhost:5140
+
+GET {{BeachCommerce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
